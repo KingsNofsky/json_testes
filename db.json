@@ -1,40 +1,277 @@
 {
-  "produto": [
-    {
-      "id": "1130",
-      "nome": "Game Boy Color Verde",
-      "valor": "299.99",
-      "imagem": "https://m.media-amazon.com/images/I/61vi4-7L0qL._SL1500_.jpg"
-    },
-    {
-      "id": "6bde",
-      "nome": "Game Boy Classic",
-      "valor": "249.99",
-      "imagem": "https://1.bp.blogspot.com/-tO1_HBpZTFU/XxSrrOLgTUI/AAAAAAAABuE/ndx1UGoXUvMyPhn-_bCK-lF_H9noJVmGACLcBGAsYHQ/s2048/NINTCHDBPICT000456717497.jpg"
-    },
-    {
-      "id": "d0aa",
-      "nome": "Game Boy Advanced SP",
-      "valor": "349.99",
-      "imagem": "https://m.media-amazon.com/images/I/81E9LMtyupL.jpg"
-    },
-    {
-      "id": "1acc",
-      "nome": "Mega Drive III",
-      "valor": "249.99",
-      "imagem": "https://http2.mlstatic.com/mega-drive-sega-D_NQ_NP_389021-MLB20683986335_042016-F.jpg"
-    },
-    {
-      "id": "82f4",
-      "nome": "Nintendo 64 Roxo",
-      "valor": "699.99",
-      "imagem": "https://vintageuy.com/img_productos/tamanio_unico/5172153a90f39a80ce4946503954ef714aad9d29.jpg"
-    },
-    {
-      "id": "77bd",
-      "nome": "polystation",
-      "valor": "399.00",
-      "imagem": "https://th.bing.com/th/id/R.629581b0fb4c9ec394b38b21f602cc67?rik=BSclElnWdyYYjw&riu=http%3a%2f%2fwww.gamefm.com.br%2fwp-content%2fuploads%2f2014%2f05%2fPSOne_Style_Famicom_Clone_adjusted.jpg&ehk=yS%2bB4QjXkhNtKb28pxHdor6AIo8qjfj8JfsV9LGmWp0%3d&risl=&pid=ImgRaw&r=0"
-    }
-  ]
+    "doguinhos": [
+        {
+            "nome": "Afegão Hound"
+        },
+        {
+            "nome": "Affenpinscher"
+        },
+        {
+            "nome": "Airedale Terrier"
+        },
+        {
+            "nome": "Akita"
+        },
+        {
+            "nome": "American Staffordshire Terrier"
+        },
+        {
+            "nome": "Basenji"
+        },
+        {
+            "nome": "Basset Hound"
+        },
+        {
+            "nome": "Beagle"
+        },
+        {
+            "nome": "Beagle Harrier"
+        },
+        {
+            "nome": "Bearded Collie"
+        },
+        {
+            "nome": "Bedlington Terrier"
+        },
+        {
+            "nome": "Bichon Frisé"
+        },
+        {
+            "nome": "Bloodhound"
+        },
+        {
+            "nome": "Bobtail"
+        },
+        {
+            "nome": "Boiadeiro Australiano"
+        },
+        {
+            "nome": "Boiadeiro Bernês"
+        },
+        {
+            "nome": "Border Collie"
+        },
+        {
+            "nome": "Border Terrier"
+        },
+        {
+            "nome": "Borzoi"
+        },
+        {
+            "nome": "Boston Terrier"
+        },
+        {
+            "nome": "Boxer"
+        },
+        {
+            "nome": "Buldogue Francês"
+        },
+        {
+            "nome": "Buldogue Inglês"
+        },
+        {
+            "nome": "Bull Terrier"
+        },
+        {
+            "nome": "Bulmastife"
+        },
+        {
+            "nome": "Cairn Terrier"
+        },
+        {
+            "nome": "Cane Corso"
+        },
+        {
+            "nome": "Cão de Água Português"
+        },
+        {
+            "nome": "Cão de Crista Chinês"
+        },
+        {
+            "nome": "Cavalier King Charles Spaniel"
+        },
+        {
+            "nome": "Chesapeake Bay Retriever"
+        },
+        {
+            "nome": "Chihuahua"
+        },
+        {
+            "nome": "Chow Chow"
+        },
+        {
+            "nome": "Cocker Spaniel Americano"
+        },
+        {
+            "nome": "Cocker Spaniel Inglês"
+        },
+        {
+            "nome": "Collie"
+        },
+        {
+            "nome": "Coton de Tuléar"
+        },
+        {
+            "nome": "Dachshund"
+        },
+        {
+            "nome": "Dálmata"
+        },
+        {
+            "nome": "Dandie Dinmont Terrier"
+        },
+        {
+            "nome": "Dobermann"
+        },
+        {
+            "nome": "Dogo Argentino"
+        },
+        {
+            "nome": "Dogue Alemão"
+        },
+        {
+            "nome": "Fila Brasileiro"
+        },
+        {
+            "nome": "Fox Terrier (Pelo Duro e Pelo Liso)"
+        },
+        {
+            "nome": "Foxhound Inglês"
+        },
+        {
+            "nome": "Galgo Escocês"
+        },
+        {
+            "nome": "Galgo Irlandês"
+        },
+        {
+            "nome": "Golden Retriever"
+        },
+        {
+            "nome": "Grande Boiadeiro Suiço"
+        },
+        {
+            "nome": "Greyhound"
+        },
+        {
+            "nome": "Grifo da Bélgica"
+        },
+        {
+            "nome": "Husky Siberiano"
+        },
+        {
+            "nome": "Jack Russell Terrier"
+        },
+        {
+            "nome": "King Charles"
+        },
+        {
+            "nome": "Komondor"
+        },
+        {
+            "nome": "Labradoodle"
+        },
+        {
+            "nome": "Labrador Retriever"
+        },
+        {
+            "nome": "Lakeland Terrier"
+        },
+        {
+            "nome": "Leonberger"
+        },
+        {
+            "nome": "Lhasa Apso"
+        },
+        {
+            "nome": "Lulu da Pomerânia"
+        },
+        {
+            "nome": "Malamute do Alasca"
+        },
+        {
+            "nome": "Maltês"
+        },
+        {
+            "nome": "Mastife"
+        },
+        {
+            "nome": "Mastim Napolitano"
+        },
+        {
+            "nome": "Mastim Tibetano"
+        },
+        {
+            "nome": "Norfolk Terrier"
+        },
+        {
+            "nome": "Norwich Terrier"
+        },
+        {
+            "nome": "Papillon"
+        },
+        {
+            "nome": "Pastor Alemão"
+        },
+        {
+            "nome": "Pastor Australiano"
+        },
+        {
+            "nome": "Pinscher Miniatura"
+        },
+        {
+            "nome": "Poodle"
+        },
+        {
+            "nome": "Pug"
+        },
+        {
+            "nome": "Rottweiler"
+        },
+        {
+            "nome": "Sem Raça Definida (SRD)"
+        },
+        {
+            "nome": "ShihTzu"
+        },
+        {
+            "nome": "Silky Terrier"
+        },
+        {
+            "nome": "Skye Terrier"
+        },
+        {
+            "nome": "Staffordshire Bull Terrier"
+        },
+        {
+            "nome": "Terra Nova"
+        },
+        {
+            "nome": "Terrier Escocês"
+        },
+        {
+            "nome": "Tosa"
+        },
+        {
+            "nome": "Weimaraner"
+        },
+        {
+            "nome": "Welsh Corgi (Cardigan)"
+        },
+        {
+            "nome": "Welsh Corgi (Pembroke)"
+        },
+        {
+            "nome": "West Highland White Terrier"
+        },
+        {
+            "nome": "Whippet"
+        },
+        {
+            "nome": "Xoloitzcuintli"
+        },
+        {
+            "nome": "Yorkshire Terrier"
+        }
+    ]
 }
